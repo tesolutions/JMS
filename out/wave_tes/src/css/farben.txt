@@ -1,0 +1,7 @@
+Orange	FD601B
+Dunkel	E9591A
+Grün	87B921
+Dunkel	70912c
+
+Rot 	73070A
+Dunkel	500c0e

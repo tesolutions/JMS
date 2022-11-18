@@ -32,7 +32,7 @@
             <hr>
         </div>
     [{/if*}]
-
+    
     [{block name="start_newest_articles"}]
         [{assign var="oNewestArticles" value=$oView->getNewestArticles()}]
         [{if $oNewestArticles && $oNewestArticles->count()}]
